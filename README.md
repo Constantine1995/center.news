@@ -15,6 +15,7 @@ Features:
 - removing news from bookmarks
 - removing using swipe actions
 
+
 <img src="https://github.com/Constantine1995/center.news/blob/main/News/MediaGithub/Screen_0.png" alt="drawing" width="360" hight="640"/>
 
 <img src="https://github.com/Constantine1995/center.news/blob/main/News/MediaGithub/Screen_1.png" alt="drawing" width="360" hight="640"/>
